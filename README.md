@@ -15,7 +15,7 @@ These are the simple solutions of the kotlin example problems ON LINE. If you wa
 
 # Problems
 
-## Sum
+## Sum - [online](http://try.kotlinlang.org/#/Examples/Problems/Sum/Sum.kt)
 ```
 
 Your task is to implement the sum() function so that it computes the sum of
@@ -53,7 +53,7 @@ fun sum(a: IntArray): Int {
 }
 ```
 
-## Index of Maximum
+## Index of Maximum - [online](http://try.kotlinlang.org/#/Examples/Problems/Index of Maximum/Index of Maximum.kt)
 ```
 Your task is to implement the indexOfMax() function so that it returns
 the index of the largest element in the array, or null if the array is empty.
@@ -74,7 +74,7 @@ fun _indexOfMax(a: IntArray): Int? {
     return  if(a.size != 0) _indexOfMax(a) else null
 ```
 
-## Runs
+## Runs - [online](http://try.kotlinlang.org/#/Examples/Problems/Runs/Runs.kt)
 ```
  Any array may be viewed as a number of "runs" of equal numbers.
  For example, the following array has two runs:
@@ -96,7 +96,7 @@ fun runs(a: IntArray): Int {
 }
 ```
 
-## Palindrome
+## Palindrome - [online](http://try.kotlinlang.org/#/Examples/Problems/Palindrome/Palindrome.kt)
 ```
  Your task is to implement a palindrome test.
  
@@ -135,7 +135,7 @@ fun isPalindrome(s: String): Boolean {
 }
 ```
 
-## Pairless
+## Pairless - [online](http://try.kotlinlang.org/#/Examples/Problems/Pairless/Pairless.kt)
 ```
 
  Think of a perfect world where everybody has a soulmate.
