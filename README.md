@@ -91,8 +91,19 @@ fun _indexOfMax(a: IntArray): Int? {
 Solution
 ```kotlin
 fun runs(a: IntArray): Int {
-    // Write your solution here
-    return 0
+    var res = 0;
+    if (a.size == res)
+    	return res
+
+    var base = a[res]
+    a.forEach({
+        if(it != base){
+            res ++
+            base = it
+        }
+    })
+ 
+    return (++res);   
 }
 ```
 
