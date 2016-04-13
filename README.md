@@ -1,6 +1,6 @@
 # Kotlin Examples Problems
 
-The "src" folder contains the resolved exercises of "https://github.com/jetbrains/workshop-jb".
+The "src" folder contains the resolved exercises of "http://try.kotlinlang.org/#/Examples/Problems/Sum/Sum.kt".
 
 These are the simple solutions of the kotlin example problems ON LINE. If you want to add your answer, you can make a PR.
 
