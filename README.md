@@ -181,3 +181,7 @@ fun findPairless(a: IntArray): Int {
     return a.reduce { a, b -> a xor b }
 }
 ```
+
+##References :
+* [Getting Started Kotlin](https://github.com/vicboma1/GettingStartedKotlin)
+* [Kotlin-Koans](https://github.com/vicboma1/Kotlin-Koans)
