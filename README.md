@@ -7,11 +7,11 @@ These are the simple solutions of the kotlin example problems ON LINE. If you wa
 ##Indexes for examples problems online
 
 ###Problems
-* [Sum](https://github.com/vicboma1/Kotlin-Examples-Problems#Sum)
-* [Index of Maximum](https://github.com/vicboma1/Kotlin-Examples-Problems#index-of-maximum)
-* [Runs](https://github.com/vicboma1/Kotlin-Examples-Problems#run)
-* [Palindrome](https://github.com/vicboma1/Kotlin-Examples-Problems#palindrome)
-* [Pairless](https://github.com/vicboma1/Kotlin-Examples-Problems#pairless)
+* [Sum](https://github.com/vicboma1/Kotlin-Examples-Problems#Sum---online)
+* [Index of Maximum](https://github.com/vicboma1/Kotlin-Examples-Problems#index-of-maximum---online)
+* [Runs](https://github.com/vicboma1/Kotlin-Examples-Problems#run---online)
+* [Palindrome](https://github.com/vicboma1/Kotlin-Examples-Problems#palindrome---online)
+* [Pairless](https://github.com/vicboma1/Kotlin-Examples-Problems#pairless---online)
 
 # Problems
 
