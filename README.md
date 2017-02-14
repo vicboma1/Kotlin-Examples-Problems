@@ -1,6 +1,10 @@
 # Kotlin Examples Problems
 
-The "src" folder contains the resolved exercises of "http://try.kotlinlang.org/#/Examples/Problems/Sum/Sum.kt".
+--->>>  [Repo: Getting Started Kotlin](https://github.com/vicboma1/GettingStartedKotlin)   <<<---
+
+--->>>   [Repo Kotlin Koans](https://github.com/vicboma1/Kotlin-Koans)   <<<---
+
+--->>>   [Repo: GameBoy Emulator Enviroment](https://github.com/vicboma1/GameBoyEmulatorEnvironment)   <<<---
 
 These are the simple solutions of the kotlin example problems ON LINE. If you want to add your answer, you can make a PR.
 
