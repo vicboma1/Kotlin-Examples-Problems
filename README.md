@@ -186,7 +186,4 @@ fun findPairless(a: IntArray): Int {
 }
 ```
 
-##References :
-* [Getting Started Kotlin](https://github.com/vicboma1/GettingStartedKotlin)
-* [Kotlin-Koans](https://github.com/vicboma1/Kotlin-Koans)
 * @Author: Victor Bolinches Marin
