@@ -8,9 +8,9 @@
 
 These are the simple solutions of the kotlin example problems ON LINE. If you want to add your answer, you can make a PR.
 
-##Indexes for examples problems online
+## Indexes for examples problems online
 
-###Problems
+### Problems
 * [Sum](https://github.com/vicboma1/Kotlin-Examples-Problems#sum---online)
 * [Index of Maximum](https://github.com/vicboma1/Kotlin-Examples-Problems#index-of-maximum---online)
 * [Runs](https://github.com/vicboma1/Kotlin-Examples-Problems#run---online)
@@ -57,7 +57,7 @@ fun sum(a: IntArray): Int {
 }
 ```
 
-## Index of Maximum - [online](http://try.kotlinlang.org/#/Examples/Problems/Index of Maximum/Index of Maximum.kt)
+## Index of Maximum - [online](http://try.kotlinlang.org/#/Examples/Problems/Index-of-Maximum/Index-of-Maximum.kt)
 ```
 Your task is to implement the indexOfMax() function so that it returns
 the index of the largest element in the array, or null if the array is empty.
