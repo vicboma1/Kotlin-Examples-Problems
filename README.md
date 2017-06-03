@@ -60,7 +60,7 @@ fun sum(a: IntArray): Int {
 ## Index of Maximum - [online](http://try.kotlinlang.org/#/Examples/Problems/Index-of-Maximum/Index-of-Maximum.kt)
 ```
 Your task is to implement the indexOfMax() function so that it returns
-the index of the largest element in the array, or null if the array is empty.
+the index of the largest element in the array, or null if the array is empty
 ```
 
 Solution
