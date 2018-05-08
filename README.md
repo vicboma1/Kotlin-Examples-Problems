@@ -8,6 +8,7 @@
 
 --->>>   [Repo: Kotlin Mobile](https://github.com/vicboma1/KotlinMobilePoC_MasterUV2018)   <<<---
 
+--->>> [Repo: Kotlin JavaScript](https://github.com/vicboma1/kotlinJavaScript)  <<<---
 
 These are the simple solutions of the kotlin example problems ON LINE. If you want to add your answer, you can make a PR.
 
